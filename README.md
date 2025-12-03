@@ -30,6 +30,11 @@ Nosso projeto foi construído utilizando as seguintes ferramentas:
 ### Visualização de Dados
 * **Plataforma de BI:** Power BI (Dashboards publicados e embutidos).
 
+## Visão Geral dos Arquivos
+Os arquivos de código-fonte e configuração (Backend, Frontend e Scripts SQL) foram incluídos neste repositório para fins de **exame técnico** e **auditoria de código**.
+* **Acesso Simplificado:** A reprodução local não é mandatória, pois a solução completa (Administração Web e Dashboards) encontra-se **publicada e acessível na web**.
+* **Finalidade do Repositório:** O objetivo deste GitHub é oferecer transparência sobre a **arquitetura do sistema** e permitir o **desenvolvimento futuro**.
+
 ## Autores
 Este projeto foi desenvolvido pela equipe Metacornio durante o *Hackathon de Dados da UFPR*
 
