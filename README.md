@@ -38,17 +38,11 @@ Este projeto foi desenvolvido pela equipe Metacornio durante o *Hackathon de Dad
 | **André Felipe Duarth Modtkowski** | **Análise de Dados** e **Power BI** | [Linkedin](https://www.linkedin.com/in/andremodtkowski) |
 | **Leonardo de Oliveira** | **Desenvolvimento Web Full-Stack** e **Banco de Dados** | [LinkedIn](https://www.linkedin.com/in/leonardo-de-oliveira-79853514a/) |
 
-Essa é uma excelente ideia para que os jurados ou revisores possam testar a funcionalidade de upload de CSVs! É uma prática comum em hackathons fornecer credenciais de teste diretamente na documentação.
-
-Vamos criar a seção Acesso à Área Administrativa (ou Painel Admin).
-
 ## Credenciais de Acesso (Área Administrativa)
 
-Para permitir a validação completa da funcionalidade de *upload* de dados (Ingestão de CSV) e acesso às configurações do sistema, fornecemos credenciais de teste para o Painel Administrativo.
+Para permitir a validação completa da funcionalidade de *upload* de dados e acesso às configurações do sistema, fornecemos credenciais de teste para o Painel Administrativo.
 
 ### Dados de Acesso
 
-| Campo | Valor | Observação |
-| :--- | :--- | :--- |
 | **Usuário de Teste** | `hackathon_ufpr@metacornio.com.br`
 | **Senha de Teste** | `H4ck4th0N@2025#`
