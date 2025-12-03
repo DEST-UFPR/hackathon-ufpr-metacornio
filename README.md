@@ -40,9 +40,10 @@ Este projeto foi desenvolvido pela equipe Metacornio durante o *Hackathon de Dad
 
 ## Credenciais de Acesso (Área Administrativa)
 
-Para permitir a validação completa da funcionalidade de *upload* de dados e acesso às configurações do sistema, fornecemos credenciais de teste para o Painel Administrativo.
+Para permitir a visualização da área administrativa e acesso às configurações do sistema, fornecemos credenciais de teste para o Painel Administrativo.
 
 ### Dados de Acesso
 
-| **Usuário de Teste** | `hackathon_ufpr@metacornio.com.br`
-| **Senha de Teste** | `H4ck4th0N@2025#`
+| **Usuário de Teste** | **Senha de Teste** |
+| :--- | :--- |
+| `hackathon_ufpr@metacornio.com.br` | `H4ck4th0N@2025#` |
